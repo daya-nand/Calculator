@@ -1,0 +1,10 @@
+.inputCont{
+    width: 90%;
+    margin-top: 10px ;
+    margin: 0 px;
+    font-size: larger;
+    padding: 5px 8px;
+    outline: none;
+    border-radius: 10px;
+    text-align: right;
+}
